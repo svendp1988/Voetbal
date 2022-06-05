@@ -1,0 +1,37 @@
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\bin\Debug\Soccer.exe.config
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\bin\Debug\Soccer.exe
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\bin\Debug\Soccer.pdb
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.csprojAssemblyReference.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\MainWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\RankingWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\GameWindow.baml
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\MainWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\RankingWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\GameWindow.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\App.g.cs
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer_MarkupCompile.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.g.resources
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.Properties.Resources.resources
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.csproj.GenerateResource.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.exe
+C:\Users\20002296\Documents\GitHub\programmeren-in-csharp\oefeningen\Extra Oefeningen\H23_Voetbal\Opgave\Voetbal\obj\Debug\Soccer.pdb
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.exe
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.pdb
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.csproj.SuggestedBindingRedirects.cache
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\bin\Debug\Soccer.exe.config
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\bin\Debug\Soccer.exe
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\bin\Debug\Soccer.pdb
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\MainWindow.baml
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\RankingWindow.baml
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\GameWindow.baml
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\MainWindow.g.cs
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\RankingWindow.g.cs
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\GameWindow.g.cs
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\App.g.cs
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer_MarkupCompile.cache
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.g.resources
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.Properties.Resources.resources
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.csproj.GenerateResource.cache
+C:\Users\11900435\Cursussen\.NET Essentials\Oefeningen\H23 Soccer\Voetbal\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
